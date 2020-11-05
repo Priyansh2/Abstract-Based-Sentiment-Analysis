@@ -1,4 +1,4 @@
-# NLP FINAL PRJECT (ABSA)
+# About
 This repository contains code for aspect based sentiment analysis (ABSA) for "restaurant" domain. The task is to find sentiment polarity (positive, negative, neutral) of given sentence corresponding to the aspect-term.
 For instance, consider the review:- "The appetizers are ok, but the service is slow". This review/sentence has 'positive' polarity for aspect 'taste' and the polarity is 'negative' for aspect 'service'.
 
